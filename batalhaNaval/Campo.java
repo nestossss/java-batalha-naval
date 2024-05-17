@@ -1,4 +1,4 @@
-package barcodenavio;
+package batalhaNaval;
 
 import java.util.Random;
 import java.util.Scanner;
